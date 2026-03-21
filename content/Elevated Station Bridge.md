@@ -3,10 +3,12 @@ The [[JP+ Bridges]] extension set features a pair of special bridges designed to
 
 ### Requirements
 
-* North Korean Station Set (DPRK Stations)
+* **North Korean Station Set (DPRK Stations)**
+
 The elevated station bridges were designed the North Korean Station Set, because it is currently the only set with the required overlapping platform and waypoint tiles. This will change in the future when it will be implemented in JP+ Stations.
 
-* Loading speed penalty setting
+* **Loading speed penalty setting**
+
 The OpenTTD setting `Limitations > Loading speed penalty for trains that are longer than the station` must be disabled to ensure that trains load quickly, as they only have 1 tile of real station platform to stop at.
 
 

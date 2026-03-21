@@ -3,6 +3,10 @@ This is the official wiki for the JP+ Project, a suite of Japanese themed NewGRF
 It is a work in progress.
 
 ![[jp+ logo.png|300]]
+
+
+
+
 ### Components
 
 The JP+ Project aims to provide Japanese themed replacements for all aspects of OpenTTD. 
@@ -11,7 +15,17 @@ The JP+ Project is composed of multiple different NewGRFs. These work best in co
 
 Note that loading *only* the JP+ NewGRFs on a map will result in an incomplete experience, as JP+ does not have components for Road Vehicles, Aircraft, Ships, or Industries. See below for recommended add-ons.
 
+
+
+### Tutorials
+These pages contain tutorials, both for general OpenTTD and specific JP+ features.
+
+[[Elevated Station Bridge]]
+[[Consist Construction]]
+
+
 #### Major Components
+These are the core NewGRFs of the JP+ Project
 
 [[JP+ Engines & Wagons]]
 [[JP+ Multiple Units]]
@@ -24,6 +38,7 @@ Note that loading *only* the JP+ NewGRFs on a map will result in an incomplete e
 [[JP+ Bridges]]
 
 #### Minor Components
+These are official add-ons to the JP+ Project
 
 [[JP+ Objects]]
 [[JP+ Cargo Stations]]
@@ -34,7 +49,7 @@ Note that loading *only* the JP+ NewGRFs on a map will result in an incomplete e
 
 
 #### Unofficial Add-ons
-
+These are not officially part of the JP+ Project, but are designed to work alongside it.
 
 Zyliety's Japanese Objects
 [[JapanSet]] Japanese Stations 
@@ -46,12 +61,9 @@ Erato's NATS
 WenSim's Stations
 
 #### Recommended Add-ons
-
+These are more general purpose NewGRFs that we recommend using alongside JP+ sets.
 
 AXIS
 MopRV
 SHARK
 WAS
-
-#### Outdated NewGRFs
-
