@@ -11,5 +11,5 @@ This is a series of OpenTTD tutorials specifically tailored for the JP+ style of
 * [[Elevated Station Bridge]]
 * [[Livery Refits]]
 * [[Rail Junction Design]]
-* [[Underground Construction]]
+* [[Underground Railways]]
 
