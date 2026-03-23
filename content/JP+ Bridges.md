@@ -48,6 +48,11 @@ See [[Elevated Station Bridge]] for instructions on how to build the elevated st
 
 0F: Steel Trestle / Old Suspension
 
+Based on Tokyo's Kiyosu Bridge
+
+
+![[Pasted image 20260323201655.png]]
+
 
 ### Credits
 
