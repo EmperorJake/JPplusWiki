@@ -1,3 +1,9 @@
+---
+title: Welcome to the JP+ Wiki
+draft: false
+---
+
+
 This is the official wiki for the JP+ Project, a suite of Japanese themed NewGRFs for [OpenTTD](https://www.openttd.org/)
 
 It is a work in progress.
