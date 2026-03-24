@@ -13,8 +13,12 @@ Enable building while the game is paused. This is highly recommended as it is us
 Allow stations under bridges with no restrictions. This is highly recommended for compact construction and [[Underground Railways]]. However, it may cause graphical glitches with many types of station tile.
 ![[Pasted image 20260324162623.png]]
 
-Disable breakdowns. 
+Disable breakdowns. In OpenTTD, breakdowns can be very annoying and require frequent visits to a depot for servicing, which disrupts traffic flow and is not even able to prevent breakdowns fully.
 ![[Pasted image 20260324165809.png]]
+
+Drive through depots. This allows multiple rail depots to be combined into a longer one that can be accessed from either end.
+![[Pasted image 20260324181236.png]]
+
 
 
 ### Cargodist

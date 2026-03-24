@@ -38,7 +38,7 @@ The precursor to a fully underground line is a sunken line. This is simply a rai
 
 ![[Pasted image 20260323230752.png]]
 
-The idea behind underground building is that you can hide every part of the line in a tunnel, except for the parts that cannot be in a tunnel. As tunnels cannot have junctions, curves or stations, this means that those are the exposed sections we need to deal with. For starters, we'll convert the straight lines into tunnels, leaving only the station exposed. This will allow the town to expand to where the railway once was.
+The idea behind underground building is that you can hide every part of the line in a tunnel, except for the parts that cannot be in a tunnel. As tunnels cannot have junctions, curves, or stations, this means that those are the exposed sections we need to deal with. For starters, we'll convert the straight lines into tunnels, leaving only the station exposed. This will allow the town to expand to where the railway once was.
 
 ![[Pasted image 20260323231319.png]]
 
@@ -48,7 +48,7 @@ Now we can redecorate the station with metro tiles to cover what's left exposed,
 
 In the past, the platform needed to be as long as the trains, but here's where the loading speed penalty comes in. Remove all station tiles except the ones directly under the bridge, and move the tunnel portals closer to free up even more space. This is the minimum size for a double track through station. 
 
->[!info] Note:
+>[!warning] Note:
 >Through stations can be shrunk to only one tile, but terminus stations still need to be as long as the train to enable it to turn around.
 
 

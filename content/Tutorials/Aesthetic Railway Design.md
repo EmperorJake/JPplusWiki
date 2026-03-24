@@ -84,3 +84,4 @@ This will require significant terrain editing, but railways can be built in loop
 Where possible, avoid placing bridge heads on flat land. Build bridges between two sloped tiles to ensure that the entire bridge is flat. When crossing a river, road or other track, build embankments that allow the bridge to be flat, and include a flat straight tile between the bridgehead and any slopes or curves. 
 ![[Pasted image 20260324161547.png]]
 
+JP+ Bridges significantly improves the appearance of sloped bridgeheads and parallel bridges by providing full-width bridge sprites. This gives the illusion of multi-track bridges and allows much more seamless integration.
