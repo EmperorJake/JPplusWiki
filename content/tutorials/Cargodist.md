@@ -7,13 +7,18 @@ Cargodist is highly recommended for JP+ gameplay, especially for passengers. To 
 
 "Symmetric" is recommended for passengers, because the game will send similar amounts of passengers in both directions which simulates people going to and from work and other places. Mail can be either, depending on preference. Cargo is usually left on "Manual" but can also be set to the special "equal distribution" mode (see below).
 
-![[Pasted image 20260323165010.png]]
+![[Pasted image 20260324155217.png]]
 
 ### Recommended Settings
 
 Enabling cargodist for passengers will result in much more demand than the vanilla game would normally generate, leading to far more passengers than you may be able to deal with. Thus, it is highly recommended to reduce the setting `Scale town cargo production` to a value of about 50% or less.
 
 For more details on how to fine-tune the game's economy, see [[Economy & Timekeeping]].
+
+
+This setting artificially increases the length of cargodist links which use aircraft. This is useful so that air routes don't become overwhelmed with too many passengers, which is otherwise likely to happen because of their directness and low capacity. Increase this setting to at least 400% to make it viable to integrate realistic air routes into a large map-wide cargodist network.
+![[Pasted image 20260324162907.png]]
+
 
 
 ### Link Graph
