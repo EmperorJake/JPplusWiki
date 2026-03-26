@@ -69,7 +69,7 @@ WenSim's Stations
 #### Recommended Add-ons
 These are more general purpose NewGRFs that we recommend using alongside JP+ sets.
 
-AXIS
+[[AXIS]]
 MopRV
-SHARK
+[[SHARK]]
 WAS

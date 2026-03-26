@@ -1,0 +1,2 @@
+
+Axis is an industry NewGRF. While it is not part of the JP+ Project, it is the recommended industry set to go with it. In particular, the AXIS Steel City economy is well suited to simulating Japan's heavy steel, chemical and manufacturing industries. 

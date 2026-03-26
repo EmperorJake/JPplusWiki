@@ -85,3 +85,23 @@ Where possible, avoid placing bridge heads on flat land. Build bridges between t
 ![[Pasted image 20260324161547.png]]
 
 JP+ Bridges significantly improves the appearance of sloped bridgeheads and parallel bridges by providing full-width bridge sprites. This gives the illusion of multi-track bridges and allows much more seamless integration.
+![[Pasted image 20260325233221.png]]
+
+
+When bridging over navigable waters with large ship traffic, raise the bridge by at least two or three height levels. This looks better and also allows large ships to pass underneath without glitching:
+![[Pasted image 20260325171207.png]]
+
+
+### Tunnels
+
+Similarly to bridges, tunnels benefit from some minor landscaping at the entrances. Dig a small cutting on the approach to your tunnel portals. 
+![[Pasted image 20260325170226.png]]
+
+
+Avoid tunnelling under flat, empty areas with nothing above them. This should be a cutting instead.
+![[Pasted image 20260325170352.png]]
+
+
+A cutting, or sunken railway, is simply a strip of lowered terrain for the track to pass through. You can use AuzObjects embankment tiles to decorate them. Once the area becomes more built-up, a cutting can evolve into an [[Underground Railways|Underground Railway]].
+![[Pasted image 20260325170653.png]]
+
