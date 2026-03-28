@@ -21,7 +21,7 @@ For aesthetic reasons, signals should always be placed on the outside of a doubl
 Use this setting if you want to change the driving side of trains independently from road vehicles:
 ![[Pasted image 20260324124159.png]]
 
-The driving side is retained, but the signals have switched sides which looks bad and wrong:
+The driving side is retained, but the signals are now on the inside of the track, which looks aesthetically displeasing and should be avoided:
 ![[Pasted image 20260324124318.png]]
 
 So now we flip the signals to change the driving side, and once again it looks correct:
@@ -37,27 +37,33 @@ Curve radius is measured by how many tiles fit diagonally on the inside:
 >1-tile curves are aesthetically displeasing and should be avoided at all costs. They are only acceptable when hidden in [[Underground Railways]], or perhaps certain applications in yards and low-speed industrial lines.
 
 
-Each curve radius has a specific speed limit. The speed you want trains to be able to travel at should determine the minimum curve radius for your line. Low-speed Japanese trains have an advantage here, as usually you will be able to get away with 2-tile curves which allows for compact rail lines. 
+Each curve radius has a specific speed limit. The speed you want trains to be able to travel at should determine the minimum curve radius for your line. Low-speed Japanese trains have an advantage here, as usually you will be able to get away with 2-tile curves which allows for compact rail lines. Thus, low-speed lines can be built with tight curve radii such as 2 or 3 tiles, but high speed lines such as [[Shinkansen]] will require much wider curves if you don't want them to slow down.
 
-Note that curve speed is only applied if both ends of the train are in the curve at the same time. The speed limit will not apply if the train is shorter than the curve.
+Curve speed is only applied if both ends of the train are in the curve at the same time. The speed limit will not apply if the train is shorter than the curve.
 
 Some trains are tilt enabled which gives them a small curve speed bonus. Maglev tracks have a 2x curve speed bonus. 
 
-| Curve Radius | Rail Max Speed |
-| ------------ | -------------- |
-| 1 tile       | 88km/h         |
-| 1.5 tiles*   | 111km/h        |
-| 2 tiles      | 132km/h        |
-| 3 tiles      | 168km/h        |
-| 4 tiles      | 197km/h        |
-| 5 tiles      | 217km/h        |
+| Curve Radius | Rail Max Speed | Maglev Max Speed |
+| ------------ | -------------- | ---------------- |
+| 0 tile*      | 61km/h         |                  |
+| 1 tile       | 88km/h         | 172km/h          |
+| 1.5 tiles*   | 111km/h        |                  |
+| 2 tiles      | 132km/h        |                  |
+| 3 tiles      | 168km/h        |                  |
+| 4 tiles      | 197km/h        |                  |
+| 5 tiles      | 217km/h        |                  |
 
 
 >[!info] Note:
->1.5-tile curves are counted as 1 orthogonal tile between two diagonal ones, so both of these examples will slow trains to 111km/h: ![[Pasted image 20260324130003.png]]
+>1.5-tile curves are counted as 1 orthogonal tile between two diagonal ones, so both of these examples will slow trains to 111km/h: 
+>![[Pasted image 20260324130003.png]]
 
 
-Thus, low-speed lines can be built with tight curve radii such as 2 or 3 tiles, but high speed lines such as [[Shinkansen]] will require much wider curves if you don't want them to slow down.
+>[!info] Note:
+>0-tile turns, also known as 90 degree turns, are where two diagonal tracks meet directly. They are not traversable by trains unless you enable a setting. They are to be avoided at all costs.
+
+
+
 
 ### Slopes
 
